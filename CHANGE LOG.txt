@@ -1,0 +1,19 @@
+CHANGE LOG
+5/11
+Resources
+Data Source: winequality-red.csv, winequality-white.csv
+•	
+Software: Jupyter Notebook 8.12
+•	
+Changes
+Opened and combined winequality-red.csv and winequality-white.csv
+•	
+Created wine_type_id column and assign index value
+•	
+Made wine_type_id the index column
+•	
+Renamed columns to match industry-standard naming conventions
+•	
+Changed free_sulfur_dioxide and total_sulfur_dioxide datatypes to integers to match ERD
+•	
+Saved combined CSV files as combined_wine.csv
