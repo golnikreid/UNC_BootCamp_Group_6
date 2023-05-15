@@ -1,0 +1,22 @@
+wine
+-
+wine_id INT PK
+wine_type_id INT FK - wine_type.wine_type_id
+fixed_acidity DEC
+volatile_acidity DEC
+citric_acid DEC
+residual_sugar DEC
+chlorides DEC
+free_sulfur_dioxide INT
+total_sulfure_dioxide INT
+density DEC
+ph DEC
+sulphates DEC
+alcohol DEC
+quality INT
+
+wine_type
+-
+wine_type_id INT PK
+wine_type VARCHAR
+
