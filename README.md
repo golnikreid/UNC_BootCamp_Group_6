@@ -21,7 +21,7 @@
 * alcohol (% vol.)
 #### The output variable is:
 * quality (score between 1 and 10)
-
+![pgAdminimage2](https://github.com/golnikreid/UNC_BootCamp_Group_6/blob/Ugo_Ukoh/pictures/JustWine.png)
 ## The Dataset questions?
 * Can a machine learning model predict the quality of a given wine when given various properties and the wine type?
 * Can a machine learning model predict the wine type of a given wine when given various properties and the quality?
