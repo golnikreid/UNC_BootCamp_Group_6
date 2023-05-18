@@ -2,8 +2,9 @@
 ** Topic and the reasoning for that selection. 
 ## Project Topic: Wine Quality
 ** Reason for selection: 
-### TThe dataset was comprehensive and was relevant to our project. It has attributes and labels necessary to build an effective machine learning model and we all love wine
-! [Image]/Users/serahukoh/Desktop/UNC_BOOTCAMP/UNC-VIRT-DATA-PT-12-2022-U-B/UNC_BootCamp_Group_6/pictures/Screen Shot 2023-05-18 at 11.57.50 AM.png
+### The dataset was comprehensive and was relevant to our project. It has attributes and labels necessary to build an effective machine learning model and we all love wine![1_dFSpzDQJK50ur8ilFN59mQ](https://github.com/golnikreid/UNC_BootCamp_Group_6/assets/113741694/8e032d9e-64ce-4b40-abd4-278a490e7229)
+
+
 
 ** Description of the data source.
 ### This dataset is a CSV file obtained from the UCI Machine Learning Repository.  The dataset contains the chemical composition and sensory quality ratings of red and white wines.Each wine is rated on a scale of 1 to 10 based on sensory data such as taste, aroma, and color.  The dataset contains 12 columns, including 11 input variables representing the chemical properties of wine and 1 output variable representing the quality rating
