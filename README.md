@@ -47,5 +47,5 @@
 ## Machine Learning Model
 #### Train a machine learning model on the wine quality data set to identify the following:
 * Predict wine type (red or white) given the properties of a wine and the quality (Logisitic Regression).
-* Predict wine quality (1-10) given the properties of a wine and the wine type (K-Means).
+* Predict wine quality (1-10) given the properties of a wine and the wine type (Random Forest).
 
