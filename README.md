@@ -49,3 +49,9 @@
 * Predict wine type (red or white) given the properties of a wine and the quality (Logisitic Regression).
 * Predict wine quality (1-10) given the properties of a wine and the wine type (Random Forest).
 
+## Communication Protocols 
+### Our communication protocols have evolved organically to streamline information flow for the final project.
+#### 1.	Communication channels: our agreed upon primary communication channels consist of:
+a.	Slack - used for quick check-ins and calendaring
+b.	Google Meets for video collaboration calls outside of class (Zoom in class)
+c.	Email for sharing docs, files, etc.
