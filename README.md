@@ -6,7 +6,7 @@
 ![Image1](https://github.com/golnikreid/UNC_BootCamp_Group_6/blob/Ugo_Ukoh/pictures/Funstuff.png)
 
 ## Description of the data source.
-#### This dataset is a CSV file obtained from the UCI Machine Learning Repository.  The dataset contains the chemical composition and sensory quality ratings of red and white wines. 
+#### This dataset is two CSV's files (red and white wine) obtained from the UCI Machine Learning Repository. The dataset contains the chemical composition and sensory quality ratings of red and white wines. 
 ![pgAdminimage1](https://github.com/golnikreid/UNC_BootCamp_Group_6/blob/Ugo_Ukoh/pictures/pgAdminwineid%3Atype.png)
 
 #### Each wine is rated on a scale of 1 to 10 based on sensory data such as taste, aroma, and color. The dataset contains 12 columns, including 11 input variables representing the chemical properties of wine and 1 output variable representing the quality rating
@@ -46,6 +46,6 @@
 * Correlation between residual sugars and wine quality.
 ## Machine Learning Model
 #### Train a machine learning model on the wine quality data set to identify the following:
-* Predict wine type (red or white) given the properties of a wine and the quality.
-* Predict wine quality (1-10) given the properties of a wine and the wine type.
+* Predict wine type (red or white) given the properties of a wine and the quality (Logisitic Regression).
+* Predict wine quality (1-10) given the properties of a wine and the wine type (K-Means).
 
