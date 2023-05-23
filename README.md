@@ -49,3 +49,29 @@
 * Predict wine type (red or white) given the properties of a wine and the quality (Logisitic Regression).
 * Predict wine quality (1-10) given the properties of a wine and the wine type (Random Forest).
 
+## Communication Protocols 
+### Our communication protocols have evolved organically to streamline information flow for the final project.
+#### 1.	Communication channels - our agreed upon primary communication channels consist of:
+* Slack - used for quick check-ins and calendaring 
+* Google Meets for video collaboration calls outside of class (Zoom in class)
+* Email for sharing docs, files, etc.
+#### 2. Communication Etiquette has been naturally established to include all group members, fostering a collaborative environment, respecting the individual journey of each person in the learning process (finding humor in our varied abilities), and responding to group members in a timely manner. 
+#### 3. Regular meetings: 
+* We have established as needed scheduled meetings between bootcamp classes to share project progress, address challenges, troubleshoot, ensure guidelines with rubrics are followed with a consensus, and share updates.
+* Meetings are scheduled with the input of all members to respect time, work schedules, family, and sleep preferences. 
+#### 4. Document sharing and version control: 
+* Google Meets and Slack are used for document sharing.
+* GitHub is used to manage changes, revisions to code, and project related documents.
+#### 5. Clarity & Documentation:
+* Documentation of tasks are outlined in slack, when needed, to address the scope of work for individual contribution.
+#### 6. Conflict Resolution: 
+* Open communication is encouraged in working through natural disagreements.
+#### 7. Deadlines:
+* We have agreed to meet rubric deadlines, as well as additional deadlines within our group as the project progresses.
+* We hold each other accountable and provide support to ensure project tasks are completed and help is available as needed – mornings, evenings, weekends.
+#### 8. Documentation and Knowledge Sharing: 
+* As we work through different stages of the project we take turns documenting progress.
+* We have maintained GitHub as a central repository for easy access to shared information. 
+
+
+
