@@ -60,6 +60,13 @@
 ![logisitic_regression_classification_report](https://github.com/golnikreid/UNC_BootCamp_Group_6/assets/119461431/090e587d-b9e4-4810-82bb-a429120cb2a1)
 ![logistic_regression_confusion_matrix](https://github.com/golnikreid/UNC_BootCamp_Group_6/assets/119461431/ecfb6ac9-0f3e-46c8-b834-dc59b838d2fb)
 
+#### Random Forest
+•	Predicted Wine Quality
+•	Accuracy Score: 67%
+
+![random_forest_classification_report](https://github.com/golnikreid/UNC_BootCamp_Group_6/assets/119461431/712df843-d34c-40c5-96fc-12def1a181b7)
+![random_forest_confusion_matrix](https://github.com/golnikreid/UNC_BootCamp_Group_6/assets/119461431/babaf2e2-0c8b-4485-b586-e8bc88e9191c)
+
 ## Communication Protocols 
 ### Our communication protocols have evolved organically to streamline information flow for the final project.
 #### 1.	Communication channels - our agreed upon primary communication channels consist of:
