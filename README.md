@@ -67,6 +67,11 @@
 ![random_forest_classification_report](https://github.com/golnikreid/UNC_BootCamp_Group_6/assets/119461431/712df843-d34c-40c5-96fc-12def1a181b7)
 ![random_forest_confusion_matrix](https://github.com/golnikreid/UNC_BootCamp_Group_6/assets/119461431/babaf2e2-0c8b-4485-b586-e8bc88e9191c)
 
+## Visualizations
+![properties_visualization](https://github.com/golnikreid/UNC_BootCamp_Group_6/assets/119461431/4b07c449-d70b-40ac-93ba-c0497437b183)
+
+<img width="428" alt="avg_visualization" src="https://github.com/golnikreid/UNC_BootCamp_Group_6/assets/119461431/bcd6a44e-0a47-419c-b53f-c773f891e155">
+
 ## Communication Protocols 
 ### Our communication protocols have evolved organically to streamline information flow for the final project.
 #### 1.	Communication channels - our agreed upon primary communication channels consist of:
