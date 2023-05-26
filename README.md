@@ -8,6 +8,7 @@
 ## Description of the data source.
 #### This dataset is two CSV's files (red and white wine) obtained from the UCI Machine Learning Repository. The dataset contains the chemical composition and sensory quality ratings of red and white wines. 
 ![pgAdminimage1](https://github.com/golnikreid/UNC_BootCamp_Group_6/blob/Ugo_Ukoh/pictures/pgAdminwineid%3Atype.png)
+![image](https://github.com/golnikreid/UNC_BootCamp_Group_6/assets/119461431/276382cc-d86c-4859-808f-a3d5c91030e2)
 
 #### Each wine is rated on a scale of 1 to 10 based on sensory data such as taste, aroma, and color. The dataset contains 12 columns, including 11 input variables representing the chemical properties of wine and 1 output variable representing the quality rating
 #### The input variables include:
