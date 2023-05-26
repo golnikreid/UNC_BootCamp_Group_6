@@ -52,6 +52,13 @@
 * Predict wine type (red or white) given the properties of a wine and the quality (Logisitic Regression).
 * Predict wine quality (1-10) given the properties of a wine and the wine type (Random Forest).
 
+## Machine Learning Results
+#### Logistic Regression 
+•	Predicted Wine Type
+•	Accuracy Score: 99%
+![logisitic_regression_classification_report](https://github.com/golnikreid/UNC_BootCamp_Group_6/assets/119461431/090e587d-b9e4-4810-82bb-a429120cb2a1)
+![logistic_regression_confusion_matrix](https://github.com/golnikreid/UNC_BootCamp_Group_6/assets/119461431/ecfb6ac9-0f3e-46c8-b834-dc59b838d2fb)
+
 ## Communication Protocols 
 ### Our communication protocols have evolved organically to streamline information flow for the final project.
 #### 1.	Communication channels - our agreed upon primary communication channels consist of:
