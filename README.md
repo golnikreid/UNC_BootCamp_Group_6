@@ -22,6 +22,7 @@
 * pH
 * sulphates (g/dm³)
 * alcohol (% vol.)
+
 ![ERD](https://github.com/golnikreid/UNC_BootCamp_Group_6/assets/119461431/7d53e732-ea86-4e18-bf39-65a5b4ba06ab)
 
 #### The output variable is:
