@@ -72,7 +72,7 @@
 
 <img width="428" alt="avg_visualization" src="https://github.com/golnikreid/UNC_BootCamp_Group_6/assets/119461431/bcd6a44e-0a47-419c-b53f-c773f891e155">
 
-# [Tableau Visualizations](https://public.tableau.com/app/profile/kyle.fields/viz/FinalProject_16845127451580/WineQuality?publish=yes)
+### [Tableau Visualizations](https://public.tableau.com/app/profile/kyle.fields/viz/FinalProject_16845127451580/WineQuality?publish=yes)
 
 ## Communication Protocols 
 ### Our communication protocols have evolved organically to streamline information flow for the final project.
